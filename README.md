@@ -12,4 +12,12 @@
 * https://www.npmjs.com/package/live-server
 * https://www.npmjs.com/package/ascii-art
 * https://www.npmjs.com/package/cfonts
-* https://www.npmjs.com/search?q=keywords%3Acli&page=7&ranking=optimal&perPage=20
+* https://www.npmjs.com/package/generate-react-cli
+* https://www.npmjs.com/package/readme-md-generatoro
+* https://www.npmjs.com/package/webpack-dashboard
+* https://www.npmjs.com/package/stdio
+* https://www.npmjs.com/package/director
+* https://www.npmjs.com/package/np
+* https://www.npmjs.com/package/qush
+* https://www.npmjs.com/package/notes.sh
+* https://www.npmjs.com/search?q=keywords%3Acli&page=10&ranking=optimal&perPage=20
