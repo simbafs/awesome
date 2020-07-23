@@ -20,4 +20,6 @@
 * https://www.npmjs.com/package/np
 * https://www.npmjs.com/package/qush
 * https://www.npmjs.com/package/notes.sh
+* https://www.npmjs.com/package/swagger-jsdoc
+* https://www.npmjs.com/package/api
 * https://www.npmjs.com/search?q=keywords%3Acli&page=10&ranking=optimal&perPage=20
